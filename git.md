@@ -8,3 +8,4 @@ git checkout- take out specific snapshot and see it
 git log- see a timeline of changes
 git dif- shows differences
 push, pull, clone
+*new changes
